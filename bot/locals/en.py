@@ -3,7 +3,7 @@ from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>DP EDUCATION LEECH BOT</b>!\nPowered by DP EDUCATION AND NOT CODE BY DP EDUCATION ALSO THANKS Finite.\nFork: <a href='https://t.me/DP_education</a>",
+    'WELCOME_MESSAGE' : "Hi!\nI'm <b>DP EDUCATION LEECH BOT</b>!\nPOWERED BY DP EDUCATION AND NOT CODE BY DP EDUCATION ALSO THANKS ☺️Finite.'https://t.me/DP_education</a>",
     'PASS_REQUIRED' : '\n\nUse <code>/{cmd_pass} </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
@@ -15,7 +15,7 @@ LOCAL = Local({
     'ARIA2_NO_URI' : 'Link is invalid.',
     'UPLOADING_FILE' : 'Uploading : <code>{name}</code>',
     'UPLOADING_PROGRESS' : 'Uploading : <code>{name}</code>\n{block} {percentage}%\nSize : {size}\nUP : {upload_speed}/s\nETA : {eta}',
-    'UPLOAD_FAILED_FILE_MISSING' : 'Upload : Failed. file not found.\n<code>{name}</code>',
+    'UPLOAD_FAILED_FILE_MISSING' : 'Upload : Failed. file not found.\n<ciode>{name}</code>',
     'GENERATE_THUMBNAIL' : 'Thumbnail : Generating.\n<code>{name}</code>',
     'SPLIT_FILE' : 'Spliting : <code>{name}</code>',
     'SPLIT_FAILED' : 'Split : Failed.\n<code>{name}</code>',
