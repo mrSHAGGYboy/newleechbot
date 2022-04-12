@@ -3,7 +3,7 @@ from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>SMT LEECH BOT</b>!\nPOWERED BY SMT MIRROR AND NOT CODE BY SMT MIRROR ALSO THANKS ☺️Finite.'https://t.me/SL_MIRROR</a>",
+    'WELCOME_MESSAGE' : "Hi!\nI'm <b>SMT LEECH BOT</b>!\nPOWERED BY SMT MIRROR AND NOT CODE BY SMT MIRROR ALSO THANKS Finite.JOIN WITH US https://t.me/SL_MIRROR</a>",
     'PASS_REQUIRED' : '\n\nUse <code>/{cmd_pass} </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
